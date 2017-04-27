@@ -1,0 +1,11 @@
+ItemID,ProductName,DepartmentName,Price,StockQuantity
+1,"Corn Bread",Food,3,9
+2,Lettuce,Food,4,200
+3,PS3,Electronics,350,50
+4,Xbox,Electronics,350,50
+5,Nitendo,Electronics,100,100
+6,L'oreal,Body,4,100
+7,Milk,Food,3,30
+8,"Ice Cream",Food,5,65
+9,Grapes,Food,5,300
+10,Oranges,Food,3,200
