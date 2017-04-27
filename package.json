@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon mysql database hw",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrick316/bamazon.git"
+  },
+  "author": "Patrick Tumulty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrick316/bamazon/issues"
+  },
+  "homepage": "https://github.com/Patrick316/bamazon#readme"
+}
